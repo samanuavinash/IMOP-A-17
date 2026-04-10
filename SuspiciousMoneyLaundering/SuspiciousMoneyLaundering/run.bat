@@ -1,0 +1,2 @@
+python SuspiciousMoneyLaunderingDetection.py
+pause
